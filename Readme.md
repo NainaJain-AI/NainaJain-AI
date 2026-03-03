@@ -2,9 +2,9 @@
 <h3 align="center">AI Researcher | NLP Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/naina-jain-777811331/">LinkedIn</a> •
   <a href="mailto:jainnaina1502@gmail.com">Email</a> •
-  <a href="https://github.com/">GitHub</a> •
+  <a href="https://github.com/NainaJain-AI">GitHub</a> •
   <a href="#">LeetCode</a>
 </p>
 
